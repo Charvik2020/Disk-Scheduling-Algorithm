@@ -1,0 +1,390 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Head matter - can we try to be consistent on
+% included packages
+\documentclass{beamer}
+\mode<presentation>
+{\usetheme{default}
+ \usecolortheme{default}
+ \usefonttheme{default}
+ \setbeamertemplate{navigation symbols}{}
+ \setbeamertemplate{caption}[numbered]} 
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{graphicx}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Formatting for title page
+\title{Page Replacement Algorithm}
+\subtitle{Group - 29}
+\author{Anuj Shah \textendash 1401084\\ Charvik Patel \textendash 1401079\\ Himanshu Budhia \textendash 1401039\\Maharsh Patel \textendash 1401109		}
+\institute{School of Enginering and Applied Sciences - Ahmedabad University}
+\date{\today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\begin{frame}
+  \titlepage
+\end{frame}
+%\section{Introduction}
+% There is actually no point to the sections 
+% since we are not using table of contents mark up
+\begin{frame}{Outline}
+\begin{itemize}
+  \item \alert{Introduction}
+  \item Why Page Replacement ?
+  \item Algorithm
+  
+  \begin{enumerate}
+  	\item FIFO
+  	\item LFU
+  	\item LRU Counter
+  	\item LRU Stack
+  	\item MFU
+  	\item OPT
+  	\item Second Chance
+  \end{enumerate}
+  \item Test Result
+  \item Technical Specification
+  \item References
+  
+  
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Introduction}
+	\begin{itemize}
+		\item Paging is a memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory.
+		\item In Paging, the operating system retrieves data from secondary storage in same-size blocks called pages.
+		 
+	\end{itemize}
+\end{frame}
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item \alert{Why Page Replacement ?}
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item References
+		
+		
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Why Page Replacement ?}
+	\begin{itemize}
+		\item Program may be occupy Larger space in main memory.
+		\item Operating system brings a few pieces of the program into main memory for execution ,thus page replacement is required.
+		\item To Reduce the swapping time Different Algorithm is required. 
+		\item Thrashing
+		
+		
+	\end{itemize}
+\end{frame}
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item \alert{Algorithm}
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item References
+		
+		
+	\end{itemize}
+\end{frame}
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item \alert{FIFO}
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item References
+		
+		
+	\end{itemize}
+\end{frame}
+	
+	
+	
+	\begin{frame}{Outline}
+		\begin{itemize}
+			\item Introduction
+			\item Why Page Replacement ?
+			\item Algorithm
+			
+			\begin{enumerate}
+				\item FIFO
+				\item \alert{LFU}
+				\item LRU Counter
+				\item LRU Stack
+				\item MFU
+				\item OPT
+				\item Second Chance
+			\end{enumerate}
+			\item Test Result
+			\item Technical Specification
+			\item References
+	
+	\end{itemize}
+\end{frame}	
+	
+
+
+
+	\begin{frame}{Outline}
+		\begin{itemize}
+			\item Introduction
+			\item Why Page Replacement ?
+			\item Algorithm
+			
+			\begin{enumerate}
+				\item FIFO
+				\item LFU
+				\item \alert{LRU Counter}
+				\item LRU Stack
+				\item MFU
+				\item OPT
+				\item Second Chance
+			\end{enumerate}
+			\item Test Result
+			\item Technical Specification
+			\item References
+	\end{itemize}
+\end{frame}	
+			
+
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item \alert{LRU Stack}
+			\item MFU
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item References
+	\end{itemize}
+\end{frame}	
+	
+
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item \alert{MFU}
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item References
+	\end{itemize}
+\end{frame}	
+
+
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item \alert{OPT}
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item References
+	\end{itemize}
+\end{frame}	
+
+
+
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item OPT
+			\item \alert{Second Chance}
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item References
+	\end{itemize}
+\end{frame}	
+
+
+
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item \alert{Test Result}
+		\item Technical Specification
+		\item References
+	\end{itemize}
+\end{frame}	
+
+
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item \alert{Technical Specification}
+		\item References
+	\end{itemize}
+\end{frame}	
+
+
+
+\begin{frame}{Technical Specification}
+	\begin{itemize}
+		\item Code Language – C and Python 2.7 .
+		\item Code compatibility – UNIX and Windows.
+		\item Input – Randomly generated page numbers using Python.
+		\item Output – Number of page faults and intermediate pages in frame.
+		\item Data structures used – Stack, Array, Linked list.
+	\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Outline}
+	\begin{itemize}
+		\item Introduction
+		\item Why Page Replacement ?
+		\item Algorithm
+		
+		\begin{enumerate}
+			\item FIFO
+			\item LFU
+			\item LRU Counter
+			\item LRU Stack
+			\item MFU
+			\item OPT
+			\item Second Chance
+		\end{enumerate}
+		\item Test Result
+		\item Technical Specification
+		\item \alert{References}
+	\end{itemize}
+\end{frame}	
+
+
+
+\begin{frame}{References}
+	\begin{thebibliography}{10}
+		
+		\bibitem{1} Operating System internals and Design Principles, 7th ed. Pearson
+		\bibitem{2} "LRU Implementations", Cs.jhu.edu, 2016. [Online]. Available:
+		\url{http://www.cs.jhu.edu/~yairamir/cs418/os6/tsld021.htm}.
+		$[Accessed: 07- Dec- 2016].$ 
+		\bibitem{3} "Operating System - Virtual Memory", www.tutorialspoint.com,
+		2016. $[Online].$ Available:
+		\url{https://www.tutorialspoint.com/operating_system/os_virtual_memo
+			ry.htm}. $[Accessed: 07- Dec- 2016].$
+		\bibitem{4} "Operating Systems", Www2.cs.uregina.ca, 2016. $[Online]$.
+		Available:
+		\url{http://www2.cs.uregina.ca/~hamilton/courses/330/notes/memory/
+		page_replacement.html.} $[Accessed: 07- Dec- 2016].$
+		\bibitem{5} "Page replacement algorithm", En.wikipedia.org, 2016. $[Online].$
+		Available:
+		\url{https://en.wikipedia.org/wiki/Page_replacement_algorithm}.
+		$[Accessed: 07- Dec- 2016].$
+		\bibitem{6} "What’s the difference between clock and Second chance pagereplacement
+		algorithm?," 2016. $[Online].$ Available:
+		\url{http://cs.stackexchange.com/questions/29092/whats-the-differencebetween-
+		clock-and-second-chance-page-replacement-algorithm}.
+		$[Accessed: Dec. 7, 2016].$		
+		
+		
+		
+		
+		
+	\end{thebibliography}
+	
+\end{frame}	
+
+
+
+\end{document}

@@ -1,0 +1,1518 @@
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:16:59 2016
+
+The number of page requested are:30
+
+The pages present in the requested string are
+7  6  4  2  3  10  5  9  10  5  3  4  6  5  9  4  9  6  6  3  5  3  1  2  5  5  7  10  3  3  
+
+
+The number of page faults are 20
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:17:00 2016
+
+The number of page request are:30
+The pages present in the requested string are
+7  6  4  2  3  10  5  9  10  5  3  4  6  5  9  4  9  6  6  3  5  3  1  2  5  5  7  10  3  3  
+
+
+The number of page faults are 19
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:17:00 2016
+
+The number of page request are:30
+The pages present in the requested string are
+7  6  4  2  3  10  5  9  10  5  3  4  6  5  9  4  9  6  6  3  5  3  1  2  5  5  7  10  3  3  
+
+
+The number of page faults are 21
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:17:00 2016
+
+The number of page request are:30
+The pages present in the requested string are
+7  6  4  2  3  10  5  9  10  5  3  4  6  5  9  4  9  6  6  3  5  3  1  2  5  5  7  10  3  3  
+
+
+The number of page faults are 21
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:16:59 2016
+
+The number of page request are:30
+The pages present in the frame are
+7  6  4  2  3  10  5  9  10  5  3  4  6  5  9  4  9  6  6  3  5  3  1  2  5  5  7  10  3  3  
+
+
+The number of page faults are 21
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:16:59 2016
+
+The number of page request are:30
+The pages present in the requested string are
+7  6  4  2  3  10  5  9  10  5  3  4  6  5  9  4  9  6  6  3  5  3  1  2  5  5  7  10  3  3  
+
+
+The number of page faults are 20
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:16:59 2016
+
+The number of page request are:30
+The pages present in the requested string are
+7  6  4  2  3  10  5  9  10  5  3  4  6  5  9  4  9  6  6  3  5  3  1  2  5  5  7  10  3  3  
+
+
+The number of page faults are 21
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:17:16 2016
+
+The number of page requested are:76
+
+The pages present in the requested string are
+4  10  7  5  6  7  5  2  7  8  10  1  9  6  10  1  9  4  9  5  6  4  4  7  3  3  1  9  6  9  9  2  4  7  10  4  8  7  7  8  2  4  3  1  6  1  4  2  8  8  4  6  9  4  1  2  5  10  9  5  4  7  7  10  4  4  9  4  10  2  2  8  10  2  9  8  
+
+
+The number of page faults are 52
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:17:17 2016
+
+The number of page request are:76
+The pages present in the requested string are
+4  10  7  5  6  7  5  2  7  8  10  1  9  6  10  1  9  4  9  5  6  4  4  7  3  3  1  9  6  9  9  2  4  7  10  4  8  7  7  8  2  4  3  1  6  1  4  2  8  8  4  6  9  4  1  2  5  10  9  5  4  7  7  10  4  4  9  4  10  2  2  8  10  2  9  8  
+
+
+The number of page faults are 38
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:17:17 2016
+
+The number of page request are:76
+The pages present in the requested string are
+4  10  7  5  6  7  5  2  7  8  10  1  9  6  10  1  9  4  9  5  6  4  4  7  3  3  1  9  6  9  9  2  4  7  10  4  8  7  7  8  2  4  3  1  6  1  4  2  8  8  4  6  9  4  1  2  5  10  9  5  4  7  7  10  4  4  9  4  10  2  2  8  10  2  9  8  
+
+
+The number of page faults are 53
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:17:17 2016
+
+The number of page request are:76
+The pages present in the requested string are
+4  10  7  5  6  7  5  2  7  8  10  1  9  6  10  1  9  4  9  5  6  4  4  7  3  3  1  9  6  9  9  2  4  7  10  4  8  7  7  8  2  4  3  1  6  1  4  2  8  8  4  6  9  4  1  2  5  10  9  5  4  7  7  10  4  4  9  4  10  2  2  8  10  2  9  8  
+
+
+The number of page faults are 51
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:17:17 2016
+
+The number of page request are:76
+The pages present in the frame are
+4  10  7  5  6  7  5  2  7  8  10  1  9  6  10  1  9  4  9  5  6  4  4  7  3  3  1  9  6  9  9  2  4  7  10  4  8  7  7  8  2  4  3  1  6  1  4  2  8  8  4  6  9  4  1  2  5  10  9  5  4  7  7  10  4  4  9  4  10  2  2  8  10  2  9  8  
+
+
+The number of page faults are 51
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:17:16 2016
+
+The number of page request are:76
+The pages present in the requested string are
+4  10  7  5  6  7  5  2  7  8  10  1  9  6  10  1  9  4  9  5  6  4  4  7  3  3  1  9  6  9  9  2  4  7  10  4  8  7  7  8  2  4  3  1  6  1  4  2  8  8  4  6  9  4  1  2  5  10  9  5  4  7  7  10  4  4  9  4  10  2  2  8  10  2  9  8  
+
+
+The number of page faults are 52
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:17:16 2016
+
+The number of page request are:76
+The pages present in the requested string are
+4  10  7  5  6  7  5  2  7  8  10  1  9  6  10  1  9  4  9  5  6  4  4  7  3  3  1  9  6  9  9  2  4  7  10  4  8  7  7  8  2  4  3  1  6  1  4  2  8  8  4  6  9  4  1  2  5  10  9  5  4  7  7  10  4  4  9  4  10  2  2  8  10  2  9  8  
+
+
+The number of page faults are 49
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:17:52 2016
+
+The number of page requested are:94
+
+The pages present in the requested string are
+5  5  8  1  10  10  7  5  2  2  4  5  6  10  1  6  8  5  10  10  2  2  9  2  5  1  8  6  3  7  7  6  6  10  2  9  7  3  4  4  8  7  2  8  2  4  6  9  6  8  3  5  1  4  4  8  6  4  2  3  3  8  9  5  8  8  9  1  4  4  5  3  5  4  5  8  1  6  3  7  3  6  6  1  7  9  2  10  10  5  2  1  9  1  
+
+
+The number of page faults are 60
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:17:52 2016
+
+The number of page request are:94
+The pages present in the requested string are
+5  5  8  1  10  10  7  5  2  2  4  5  6  10  1  6  8  5  10  10  2  2  9  2  5  1  8  6  3  7  7  6  6  10  2  9  7  3  4  4  8  7  2  8  2  4  6  9  6  8  3  5  1  4  4  8  6  4  2  3  3  8  9  5  8  8  9  1  4  4  5  3  5  4  5  8  1  6  3  7  3  6  6  1  7  9  2  10  10  5  2  1  9  1  
+
+
+The number of page faults are 45
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:17:52 2016
+
+The number of page request are:94
+The pages present in the requested string are
+5  5  8  1  10  10  7  5  2  2  4  5  6  10  1  6  8  5  10  10  2  2  9  2  5  1  8  6  3  7  7  6  6  10  2  9  7  3  4  4  8  7  2  8  2  4  6  9  6  8  3  5  1  4  4  8  6  4  2  3  3  8  9  5  8  8  9  1  4  4  5  3  5  4  5  8  1  6  3  7  3  6  6  1  7  9  2  10  10  5  2  1  9  1  
+
+
+The number of page faults are 59
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:17:52 2016
+
+The number of page request are:94
+The pages present in the requested string are
+5  5  8  1  10  10  7  5  2  2  4  5  6  10  1  6  8  5  10  10  2  2  9  2  5  1  8  6  3  7  7  6  6  10  2  9  7  3  4  4  8  7  2  8  2  4  6  9  6  8  3  5  1  4  4  8  6  4  2  3  3  8  9  5  8  8  9  1  4  4  5  3  5  4  5  8  1  6  3  7  3  6  6  1  7  9  2  10  10  5  2  1  9  1  
+
+
+The number of page faults are 61
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:17:52 2016
+
+The number of page request are:94
+The pages present in the frame are
+5  5  8  1  10  10  7  5  2  2  4  5  6  10  1  6  8  5  10  10  2  2  9  2  5  1  8  6  3  7  7  6  6  10  2  9  7  3  4  4  8  7  2  8  2  4  6  9  6  8  3  5  1  4  4  8  6  4  2  3  3  8  9  5  8  8  9  1  4  4  5  3  5  4  5  8  1  6  3  7  3  6  6  1  7  9  2  10  10  5  2  1  9  1  
+
+
+The number of page faults are 61
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:17:52 2016
+
+The number of page request are:94
+The pages present in the requested string are
+5  5  8  1  10  10  7  5  2  2  4  5  6  10  1  6  8  5  10  10  2  2  9  2  5  1  8  6  3  7  7  6  6  10  2  9  7  3  4  4  8  7  2  8  2  4  6  9  6  8  3  5  1  4  4  8  6  4  2  3  3  8  9  5  8  8  9  1  4  4  5  3  5  4  5  8  1  6  3  7  3  6  6  1  7  9  2  10  10  5  2  1  9  1  
+
+
+The number of page faults are 61
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:17:52 2016
+
+The number of page request are:94
+The pages present in the requested string are
+5  5  8  1  10  10  7  5  2  2  4  5  6  10  1  6  8  5  10  10  2  2  9  2  5  1  8  6  3  7  7  6  6  10  2  9  7  3  4  4  8  7  2  8  2  4  6  9  6  8  3  5  1  4  4  8  6  4  2  3  3  8  9  5  8  8  9  1  4  4  5  3  5  4  5  8  1  6  3  7  3  6  6  1  7  9  2  10  10  5  2  1  9  1  
+
+
+The number of page faults are 61
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:18:12 2016
+
+The number of page requested are:21
+
+The pages present in the requested string are
+8  2  4  4  5  4  7  4  10  3  7  5  1  7  8  1  1  3  1  7  1  
+
+
+The number of page faults are 14
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:18:12 2016
+
+The number of page request are:21
+The pages present in the requested string are
+8  2  4  4  5  4  7  4  10  3  7  5  1  7  8  1  1  3  1  7  1  
+
+
+The number of page faults are 10
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:18:12 2016
+
+The number of page request are:21
+The pages present in the requested string are
+8  2  4  4  5  4  7  4  10  3  7  5  1  7  8  1  1  3  1  7  1  
+
+
+The number of page faults are 16
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:18:12 2016
+
+The number of page request are:21
+The pages present in the requested string are
+8  2  4  4  5  4  7  4  10  3  7  5  1  7  8  1  1  3  1  7  1  
+
+
+The number of page faults are 13
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:18:12 2016
+
+The number of page request are:21
+The pages present in the frame are
+8  2  4  4  5  4  7  4  10  3  7  5  1  7  8  1  1  3  1  7  1  
+
+
+The number of page faults are 13
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:18:12 2016
+
+The number of page request are:21
+The pages present in the requested string are
+8  2  4  4  5  4  7  4  10  3  7  5  1  7  8  1  1  3  1  7  1  
+
+
+The number of page faults are 15
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:18:11 2016
+
+The number of page request are:21
+The pages present in the requested string are
+8  2  4  4  5  4  7  4  10  3  7  5  1  7  8  1  1  3  1  7  1  
+
+
+The number of page faults are 13
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:18:30 2016
+
+The number of page requested are:91
+
+The pages present in the requested string are
+9  4  10  1  4  9  1  6  3  7  7  2  2  5  5  3  9  10  5  7  8  10  6  5  5  3  1  3  9  7  5  7  8  7  6  5  7  3  5  1  7  4  5  3  4  4  8  8  6  10  5  3  6  4  9  10  1  8  10  3  10  4  2  6  8  2  4  5  4  1  9  2  8  8  9  6  7  6  6  9  5  2  3  7  10  3  4  10  7  6  3  
+
+
+The number of page faults are 65
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:18:31 2016
+
+The number of page request are:91
+The pages present in the requested string are
+9  4  10  1  4  9  1  6  3  7  7  2  2  5  5  3  9  10  5  7  8  10  6  5  5  3  1  3  9  7  5  7  8  7  6  5  7  3  5  1  7  4  5  3  4  4  8  8  6  10  5  3  6  4  9  10  1  8  10  3  10  4  2  6  8  2  4  5  4  1  9  2  8  8  9  6  7  6  6  9  5  2  3  7  10  3  4  10  7  6  3  
+
+
+The number of page faults are 48
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:18:31 2016
+
+The number of page request are:91
+The pages present in the requested string are
+9  4  10  1  4  9  1  6  3  7  7  2  2  5  5  3  9  10  5  7  8  10  6  5  5  3  1  3  9  7  5  7  8  7  6  5  7  3  5  1  7  4  5  3  4  4  8  8  6  10  5  3  6  4  9  10  1  8  10  3  10  4  2  6  8  2  4  5  4  1  9  2  8  8  9  6  7  6  6  9  5  2  3  7  10  3  4  10  7  6  3  
+
+
+The number of page faults are 58
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:18:31 2016
+
+The number of page request are:91
+The pages present in the requested string are
+9  4  10  1  4  9  1  6  3  7  7  2  2  5  5  3  9  10  5  7  8  10  6  5  5  3  1  3  9  7  5  7  8  7  6  5  7  3  5  1  7  4  5  3  4  4  8  8  6  10  5  3  6  4  9  10  1  8  10  3  10  4  2  6  8  2  4  5  4  1  9  2  8  8  9  6  7  6  6  9  5  2  3  7  10  3  4  10  7  6  3  
+
+
+The number of page faults are 64
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:18:31 2016
+
+The number of page request are:91
+The pages present in the frame are
+9  4  10  1  4  9  1  6  3  7  7  2  2  5  5  3  9  10  5  7  8  10  6  5  5  3  1  3  9  7  5  7  8  7  6  5  7  3  5  1  7  4  5  3  4  4  8  8  6  10  5  3  6  4  9  10  1  8  10  3  10  4  2  6  8  2  4  5  4  1  9  2  8  8  9  6  7  6  6  9  5  2  3  7  10  3  4  10  7  6  3  
+
+
+The number of page faults are 64
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:18:31 2016
+
+The number of page request are:91
+The pages present in the requested string are
+9  4  10  1  4  9  1  6  3  7  7  2  2  5  5  3  9  10  5  7  8  10  6  5  5  3  1  3  9  7  5  7  8  7  6  5  7  3  5  1  7  4  5  3  4  4  8  8  6  10  5  3  6  4  9  10  1  8  10  3  10  4  2  6  8  2  4  5  4  1  9  2  8  8  9  6  7  6  6  9  5  2  3  7  10  3  4  10  7  6  3  
+
+
+The number of page faults are 69
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:18:30 2016
+
+The number of page request are:91
+The pages present in the requested string are
+9  4  10  1  4  9  1  6  3  7  7  2  2  5  5  3  9  10  5  7  8  10  6  5  5  3  1  3  9  7  5  7  8  7  6  5  7  3  5  1  7  4  5  3  4  4  8  8  6  10  5  3  6  4  9  10  1  8  10  3  10  4  2  6  8  2  4  5  4  1  9  2  8  8  9  6  7  6  6  9  5  2  3  7  10  3  4  10  7  6  3  
+
+
+The number of page faults are 63
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:19:22 2016
+
+The number of page requested are:95
+
+The pages present in the requested string are
+3  9  5  1  9  3  6  10  3  1  9  3  6  1  5  1  9  4  10  10  8  1  2  6  6  5  3  2  8  6  2  8  8  7  2  10  2  6  10  7  3  7  10  1  6  3  9  3  4  10  1  2  4  8  10  5  4  9  2  2  8  9  1  1  6  3  7  9  4  9  7  7  5  1  7  2  8  8  10  4  3  4  3  7  1  6  10  2  9  6  4  10  10  6  2  
+
+
+The number of page faults are 70
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:19:22 2016
+
+The number of page request are:95
+The pages present in the requested string are
+3  9  5  1  9  3  6  10  3  1  9  3  6  1  5  1  9  4  10  10  8  1  2  6  6  5  3  2  8  6  2  8  8  7  2  10  2  6  10  7  3  7  10  1  6  3  9  3  4  10  1  2  4  8  10  5  4  9  2  2  8  9  1  1  6  3  7  9  4  9  7  7  5  1  7  2  8  8  10  4  3  4  3  7  1  6  10  2  9  6  4  10  10  6  2  
+
+
+The number of page faults are 48
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:19:22 2016
+
+The number of page request are:95
+The pages present in the requested string are
+3  9  5  1  9  3  6  10  3  1  9  3  6  1  5  1  9  4  10  10  8  1  2  6  6  5  3  2  8  6  2  8  8  7  2  10  2  6  10  7  3  7  10  1  6  3  9  3  4  10  1  2  4  8  10  5  4  9  2  2  8  9  1  1  6  3  7  9  4  9  7  7  5  1  7  2  8  8  10  4  3  4  3  7  1  6  10  2  9  6  4  10  10  6  2  
+
+
+The number of page faults are 66
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:19:22 2016
+
+The number of page request are:95
+The pages present in the requested string are
+3  9  5  1  9  3  6  10  3  1  9  3  6  1  5  1  9  4  10  10  8  1  2  6  6  5  3  2  8  6  2  8  8  7  2  10  2  6  10  7  3  7  10  1  6  3  9  3  4  10  1  2  4  8  10  5  4  9  2  2  8  9  1  1  6  3  7  9  4  9  7  7  5  1  7  2  8  8  10  4  3  4  3  7  1  6  10  2  9  6  4  10  10  6  2  
+
+
+The number of page faults are 66
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:19:22 2016
+
+The number of page request are:95
+The pages present in the frame are
+3  9  5  1  9  3  6  10  3  1  9  3  6  1  5  1  9  4  10  10  8  1  2  6  6  5  3  2  8  6  2  8  8  7  2  10  2  6  10  7  3  7  10  1  6  3  9  3  4  10  1  2  4  8  10  5  4  9  2  2  8  9  1  1  6  3  7  9  4  9  7  7  5  1  7  2  8  8  10  4  3  4  3  7  1  6  10  2  9  6  4  10  10  6  2  
+
+
+The number of page faults are 66
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:19:22 2016
+
+The number of page request are:95
+The pages present in the requested string are
+3  9  5  1  9  3  6  10  3  1  9  3  6  1  5  1  9  4  10  10  8  1  2  6  6  5  3  2  8  6  2  8  8  7  2  10  2  6  10  7  3  7  10  1  6  3  9  3  4  10  1  2  4  8  10  5  4  9  2  2  8  9  1  1  6  3  7  9  4  9  7  7  5  1  7  2  8  8  10  4  3  4  3  7  1  6  10  2  9  6  4  10  10  6  2  
+
+
+The number of page faults are 70
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:19:22 2016
+
+The number of page request are:95
+The pages present in the requested string are
+3  9  5  1  9  3  6  10  3  1  9  3  6  1  5  1  9  4  10  10  8  1  2  6  6  5  3  2  8  6  2  8  8  7  2  10  2  6  10  7  3  7  10  1  6  3  9  3  4  10  1  2  4  8  10  5  4  9  2  2  8  9  1  1  6  3  7  9  4  9  7  7  5  1  7  2  8  8  10  4  3  4  3  7  1  6  10  2  9  6  4  10  10  6  2  
+
+
+The number of page faults are 65
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:19:34 2016
+
+The number of page requested are:70
+
+The pages present in the requested string are
+10  2  10  9  2  10  7  10  6  4  7  6  4  6  3  8  4  7  10  9  3  6  7  10  7  10  2  10  2  10  1  2  10  5  9  4  7  9  6  8  7  10  1  1  8  3  8  9  10  3  2  6  9  1  3  3  1  8  10  10  1  8  3  1  3  4  4  1  6  2  
+
+
+The number of page faults are 44
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:19:34 2016
+
+The number of page request are:70
+The pages present in the requested string are
+10  2  10  9  2  10  7  10  6  4  7  6  4  6  3  8  4  7  10  9  3  6  7  10  7  10  2  10  2  10  1  2  10  5  9  4  7  9  6  8  7  10  1  1  8  3  8  9  10  3  2  6  9  1  3  3  1  8  10  10  1  8  3  1  3  4  4  1  6  2  
+
+
+The number of page faults are 32
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:19:34 2016
+
+The number of page request are:70
+The pages present in the requested string are
+10  2  10  9  2  10  7  10  6  4  7  6  4  6  3  8  4  7  10  9  3  6  7  10  7  10  2  10  2  10  1  2  10  5  9  4  7  9  6  8  7  10  1  1  8  3  8  9  10  3  2  6  9  1  3  3  1  8  10  10  1  8  3  1  3  4  4  1  6  2  
+
+
+The number of page faults are 49
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:19:34 2016
+
+The number of page request are:70
+The pages present in the requested string are
+10  2  10  9  2  10  7  10  6  4  7  6  4  6  3  8  4  7  10  9  3  6  7  10  7  10  2  10  2  10  1  2  10  5  9  4  7  9  6  8  7  10  1  1  8  3  8  9  10  3  2  6  9  1  3  3  1  8  10  10  1  8  3  1  3  4  4  1  6  2  
+
+
+The number of page faults are 43
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:19:34 2016
+
+The number of page request are:70
+The pages present in the frame are
+10  2  10  9  2  10  7  10  6  4  7  6  4  6  3  8  4  7  10  9  3  6  7  10  7  10  2  10  2  10  1  2  10  5  9  4  7  9  6  8  7  10  1  1  8  3  8  9  10  3  2  6  9  1  3  3  1  8  10  10  1  8  3  1  3  4  4  1  6  2  
+
+
+The number of page faults are 43
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:19:34 2016
+
+The number of page request are:70
+The pages present in the requested string are
+10  2  10  9  2  10  7  10  6  4  7  6  4  6  3  8  4  7  10  9  3  6  7  10  7  10  2  10  2  10  1  2  10  5  9  4  7  9  6  8  7  10  1  1  8  3  8  9  10  3  2  6  9  1  3  3  1  8  10  10  1  8  3  1  3  4  4  1  6  2  
+
+
+The number of page faults are 45
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:19:34 2016
+
+The number of page request are:70
+The pages present in the requested string are
+10  2  10  9  2  10  7  10  6  4  7  6  4  6  3  8  4  7  10  9  3  6  7  10  7  10  2  10  2  10  1  2  10  5  9  4  7  9  6  8  7  10  1  1  8  3  8  9  10  3  2  6  9  1  3  3  1  8  10  10  1  8  3  1  3  4  4  1  6  2  
+
+
+The number of page faults are 44
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:20:57 2016
+
+The number of page requested are:60
+
+The pages present in the requested string are
+6  3  4  5  5  4  8  2  3  9  4  6  4  8  8  8  10  5  2  2  10  4  3  8  1  3  2  1  7  7  3  4  2  9  9  9  8  8  8  7  2  10  9  10  3  8  8  2  4  7  2  1  4  4  5  5  7  4  9  8  
+
+
+The number of page faults are 35
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:20:57 2016
+
+The number of page request are:60
+The pages present in the requested string are
+6  3  4  5  5  4  8  2  3  9  4  6  4  8  8  8  10  5  2  2  10  4  3  8  1  3  2  1  7  7  3  4  2  9  9  9  8  8  8  7  2  10  9  10  3  8  8  2  4  7  2  1  4  4  5  5  7  4  9  8  
+
+
+The number of page faults are 27
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:20:57 2016
+
+The number of page request are:60
+The pages present in the requested string are
+6  3  4  5  5  4  8  2  3  9  4  6  4  8  8  8  10  5  2  2  10  4  3  8  1  3  2  1  7  7  3  4  2  9  9  9  8  8  8  7  2  10  9  10  3  8  8  2  4  7  2  1  4  4  5  5  7  4  9  8  
+
+
+The number of page faults are 38
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:20:57 2016
+
+The number of page request are:60
+The pages present in the requested string are
+6  3  4  5  5  4  8  2  3  9  4  6  4  8  8  8  10  5  2  2  10  4  3  8  1  3  2  1  7  7  3  4  2  9  9  9  8  8  8  7  2  10  9  10  3  8  8  2  4  7  2  1  4  4  5  5  7  4  9  8  
+
+
+The number of page faults are 38
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:20:57 2016
+
+The number of page request are:60
+The pages present in the frame are
+6  3  4  5  5  4  8  2  3  9  4  6  4  8  8  8  10  5  2  2  10  4  3  8  1  3  2  1  7  7  3  4  2  9  9  9  8  8  8  7  2  10  9  10  3  8  8  2  4  7  2  1  4  4  5  5  7  4  9  8  
+
+
+The number of page faults are 38
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:20:57 2016
+
+The number of page request are:60
+The pages present in the requested string are
+6  3  4  5  5  4  8  2  3  9  4  6  4  8  8  8  10  5  2  2  10  4  3  8  1  3  2  1  7  7  3  4  2  9  9  9  8  8  8  7  2  10  9  10  3  8  8  2  4  7  2  1  4  4  5  5  7  4  9  8  
+
+
+The number of page faults are 35
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:20:57 2016
+
+The number of page request are:60
+The pages present in the requested string are
+6  3  4  5  5  4  8  2  3  9  4  6  4  8  8  8  10  5  2  2  10  4  3  8  1  3  2  1  7  7  3  4  2  9  9  9  8  8  8  7  2  10  9  10  3  8  8  2  4  7  2  1  4  4  5  5  7  4  9  8  
+
+
+The number of page faults are 37
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:21:16 2016
+
+The number of page requested are:44
+
+The pages present in the requested string are
+8  8  7  6  5  6  9  7  2  9  9  4  5  4  1  1  4  4  5  7  3  3  7  4  5  5  9  3  10  9  4  1  10  3  3  4  2  6  2  3  3  8  10  5  
+
+
+The number of page faults are 23
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:21:17 2016
+
+The number of page request are:44
+The pages present in the requested string are
+8  8  7  6  5  6  9  7  2  9  9  4  5  4  1  1  4  4  5  7  3  3  7  4  5  5  9  3  10  9  4  1  10  3  3  4  2  6  2  3  3  8  10  5  
+
+
+The number of page faults are 28
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:21:17 2016
+
+The number of page request are:44
+The pages present in the requested string are
+8  8  7  6  5  6  9  7  2  9  9  4  5  4  1  1  4  4  5  7  3  3  7  4  5  5  9  3  10  9  4  1  10  3  3  4  2  6  2  3  3  8  10  5  
+
+
+The number of page faults are 21
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:21:16 2016
+
+The number of page request are:44
+The pages present in the requested string are
+8  8  7  6  5  6  9  7  2  9  9  4  5  4  1  1  4  4  5  7  3  3  7  4  5  5  9  3  10  9  4  1  10  3  3  4  2  6  2  3  3  8  10  5  
+
+
+The number of page faults are 28
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:21:16 2016
+
+The number of page request are:44
+The pages present in the requested string are
+8  8  7  6  5  6  9  7  2  9  9  4  5  4  1  1  4  4  5  7  3  3  7  4  5  5  9  3  10  9  4  1  10  3  3  4  2  6  2  3  3  8  10  5  
+
+
+The number of page faults are 24
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:21:16 2016
+
+The number of page request are:44
+The pages present in the frame are
+8  8  7  6  5  6  9  7  2  9  9  4  5  4  1  1  4  4  5  7  3  3  7  4  5  5  9  3  10  9  4  1  10  3  3  4  2  6  2  3  3  8  10  5  
+
+
+The number of page faults are 28
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:21:16 2016
+
+The number of page request are:44
+The pages present in the requested string are
+8  8  7  6  5  6  9  7  2  9  9  4  5  4  1  1  4  4  5  7  3  3  7  4  5  5  9  3  10  9  4  1  10  3  3  4  2  6  2  3  3  8  10  5  
+
+
+The number of page faults are 30
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:23:02 2016
+
+The number of page requested are:33
+
+The pages present in the requested string are
+5  8  5  8  3  10  1  2  1  4  6  1  10  5  5  5  4  1  1  2  2  8  3  5  5  9  4  7  9  8  1  3  7  
+
+
+The number of page faults are 22
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:23:02 2016
+
+The number of page request are:33
+The pages present in the requested string are
+5  8  5  8  3  10  1  2  1  4  6  1  10  5  5  5  4  1  1  2  2  8  3  5  5  9  4  7  9  8  1  3  7  
+
+
+The number of page faults are 16
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:23:02 2016
+
+The number of page request are:33
+The pages present in the requested string are
+5  8  5  8  3  10  1  2  1  4  6  1  10  5  5  5  4  1  1  2  2  8  3  5  5  9  4  7  9  8  1  3  7  
+
+
+The number of page faults are 20
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:23:02 2016
+
+The number of page request are:33
+The pages present in the frame are
+5  8  5  8  3  10  1  2  1  4  6  1  10  5  5  5  4  1  1  2  2  8  3  5  5  9  4  7  9  8  1  3  7  
+
+
+The number of page faults are 19
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:23:02 2016
+
+The number of page request are:33
+The pages present in the requested string are
+5  8  5  8  3  10  1  2  1  4  6  1  10  5  5  5  4  1  1  2  2  8  3  5  5  9  4  7  9  8  1  3  7  
+
+
+The number of page faults are 21
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:23:02 2016
+
+The number of page request are:33
+The pages present in the requested string are
+5  8  5  8  3  10  1  2  1  4  6  1  10  5  5  5  4  1  1  2  2  8  3  5  5  9  4  7  9  8  1  3  7  
+
+
+The number of page faults are 19
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:23:52 2016
+
+The number of page requested are:75
+
+The pages present in the requested string are
+5  2  5  9  10  8  6  1  3  6  6  8  6  9  1  1  8  8  10  10  10  7  4  6  3  7  10  6  5  1  4  7  10  1  3  7  7  6  9  5  2  2  5  6  6  3  2  8  2  8  8  7  3  1  5  4  1  6  9  6  9  2  2  3  2  9  5  7  8  5  10  10  2  2  7  
+
+
+The number of page faults are 48
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:23:53 2016
+
+The number of page request are:75
+The pages present in the requested string are
+5  2  5  9  10  8  6  1  3  6  6  8  6  9  1  1  8  8  10  10  10  7  4  6  3  7  10  6  5  1  4  7  10  1  3  7  7  6  9  5  2  2  5  6  6  3  2  8  2  8  8  7  3  1  5  4  1  6  9  6  9  2  2  3  2  9  5  7  8  5  10  10  2  2  7  
+
+
+The number of page faults are 37
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:23:53 2016
+
+The number of page request are:75
+The pages present in the requested string are
+5  2  5  9  10  8  6  1  3  6  6  8  6  9  1  1  8  8  10  10  10  7  4  6  3  7  10  6  5  1  4  7  10  1  3  7  7  6  9  5  2  2  5  6  6  3  2  8  2  8  8  7  3  1  5  4  1  6  9  6  9  2  2  3  2  9  5  7  8  5  10  10  2  2  7  
+
+
+The number of page faults are 48
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:23:52 2016
+
+The number of page request are:75
+The pages present in the requested string are
+5  2  5  9  10  8  6  1  3  6  6  8  6  9  1  1  8  8  10  10  10  7  4  6  3  7  10  6  5  1  4  7  10  1  3  7  7  6  9  5  2  2  5  6  6  3  2  8  2  8  8  7  3  1  5  4  1  6  9  6  9  2  2  3  2  9  5  7  8  5  10  10  2  2  7  
+
+
+The number of page faults are 48
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:23:52 2016
+
+The number of page request are:75
+The pages present in the frame are
+5  2  5  9  10  8  6  1  3  6  6  8  6  9  1  1  8  8  10  10  10  7  4  6  3  7  10  6  5  1  4  7  10  1  3  7  7  6  9  5  2  2  5  6  6  3  2  8  2  8  8  7  3  1  5  4  1  6  9  6  9  2  2  3  2  9  5  7  8  5  10  10  2  2  7  
+
+
+The number of page faults are 48
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:23:52 2016
+
+The number of page request are:75
+The pages present in the requested string are
+5  2  5  9  10  8  6  1  3  6  6  8  6  9  1  1  8  8  10  10  10  7  4  6  3  7  10  6  5  1  4  7  10  1  3  7  7  6  9  5  2  2  5  6  6  3  2  8  2  8  8  7  3  1  5  4  1  6  9  6  9  2  2  3  2  9  5  7  8  5  10  10  2  2  7  
+
+
+The number of page faults are 49
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:23:52 2016
+
+The number of page request are:75
+The pages present in the requested string are
+5  2  5  9  10  8  6  1  3  6  6  8  6  9  1  1  8  8  10  10  10  7  4  6  3  7  10  6  5  1  4  7  10  1  3  7  7  6  9  5  2  2  5  6  6  3  2  8  2  8  8  7  3  1  5  4  1  6  9  6  9  2  2  3  2  9  5  7  8  5  10  10  2  2  7  
+
+
+The number of page faults are 47
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:24:03 2016
+
+The number of page requested are:69
+
+The pages present in the requested string are
+6  10  5  5  7  8  6  9  8  2  2  3  1  2  2  1  3  6  6  5  6  4  7  9  2  1  7  9  10  1  8  1  2  6  5  7  7  10  6  5  4  8  4  5  6  7  9  5  2  3  5  3  6  9  8  10  5  9  7  6  9  1  4  2  3  8  6  7  7  
+
+
+The number of page faults are 49
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:24:04 2016
+
+The number of page request are:69
+The pages present in the requested string are
+6  10  5  5  7  8  6  9  8  2  2  3  1  2  2  1  3  6  6  5  6  4  7  9  2  1  7  9  10  1  8  1  2  6  5  7  7  10  6  5  4  8  4  5  6  7  9  5  2  3  5  3  6  9  8  10  5  9  7  6  9  1  4  2  3  8  6  7  7  
+
+
+The number of page faults are 36
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:24:04 2016
+
+The number of page request are:69
+The pages present in the requested string are
+6  10  5  5  7  8  6  9  8  2  2  3  1  2  2  1  3  6  6  5  6  4  7  9  2  1  7  9  10  1  8  1  2  6  5  7  7  10  6  5  4  8  4  5  6  7  9  5  2  3  5  3  6  9  8  10  5  9  7  6  9  1  4  2  3  8  6  7  7  
+
+
+The number of page faults are 49
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:24:04 2016
+
+The number of page request are:69
+The pages present in the requested string are
+6  10  5  5  7  8  6  9  8  2  2  3  1  2  2  1  3  6  6  5  6  4  7  9  2  1  7  9  10  1  8  1  2  6  5  7  7  10  6  5  4  8  4  5  6  7  9  5  2  3  5  3  6  9  8  10  5  9  7  6  9  1  4  2  3  8  6  7  7  
+
+
+The number of page faults are 48
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:24:03 2016
+
+The number of page request are:69
+The pages present in the requested string are
+6  10  5  5  7  8  6  9  8  2  2  3  1  2  2  1  3  6  6  5  6  4  7  9  2  1  7  9  10  1  8  1  2  6  5  7  7  10  6  5  4  8  4  5  6  7  9  5  2  3  5  3  6  9  8  10  5  9  7  6  9  1  4  2  3  8  6  7  7  
+
+
+The number of page faults are 45
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:24:04 2016
+
+The number of page request are:69
+The pages present in the frame are
+6  10  5  5  7  8  6  9  8  2  2  3  1  2  2  1  3  6  6  5  6  4  7  9  2  1  7  9  10  1  8  1  2  6  5  7  7  10  6  5  4  8  4  5  6  7  9  5  2  3  5  3  6  9  8  10  5  9  7  6  9  1  4  2  3  8  6  7  7  
+
+
+The number of page faults are 48
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:24:03 2016
+
+The number of page request are:69
+The pages present in the requested string are
+6  10  5  5  7  8  6  9  8  2  2  3  1  2  2  1  3  6  6  5  6  4  7  9  2  1  7  9  10  1  8  1  2  6  5  7  7  10  6  5  4  8  4  5  6  7  9  5  2  3  5  3  6  9  8  10  5  9  7  6  9  1  4  2  3  8  6  7  7  
+
+
+The number of page faults are 48
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:24:27 2016
+
+The number of page requested are:32
+
+The pages present in the requested string are
+6  6  1  8  5  7  2  2  2  9  4  1  4  4  1  1  5  3  9  8  5  4  6  3  2  10  8  6  1  9  5  10  
+
+
+The number of page faults are 22
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:24:28 2016
+
+The number of page request are:32
+The pages present in the requested string are
+6  6  1  8  5  7  2  2  2  9  4  1  4  4  1  1  5  3  9  8  5  4  6  3  2  10  8  6  1  9  5  10  
+
+
+The number of page faults are 17
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:24:28 2016
+
+The number of page request are:32
+The pages present in the requested string are
+6  6  1  8  5  7  2  2  2  9  4  1  4  4  1  1  5  3  9  8  5  4  6  3  2  10  8  6  1  9  5  10  
+
+
+The number of page faults are 18
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:24:28 2016
+
+The number of page request are:32
+The pages present in the requested string are
+6  6  1  8  5  7  2  2  2  9  4  1  4  4  1  1  5  3  9  8  5  4  6  3  2  10  8  6  1  9  5  10  
+
+
+The number of page faults are 22
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:24:28 2016
+
+The number of page request are:32
+The pages present in the frame are
+6  6  1  8  5  7  2  2  2  9  4  1  4  4  1  1  5  3  9  8  5  4  6  3  2  10  8  6  1  9  5  10  
+
+
+The number of page faults are 22
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:24:27 2016
+
+The number of page request are:32
+The pages present in the requested string are
+6  6  1  8  5  7  2  2  2  9  4  1  4  4  1  1  5  3  9  8  5  4  6  3  2  10  8  6  1  9  5  10  
+
+
+The number of page faults are 24
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:24:27 2016
+
+The number of page request are:32
+The pages present in the requested string are
+6  6  1  8  5  7  2  2  2  9  4  1  4  4  1  1  5  3  9  8  5  4  6  3  2  10  8  6  1  9  5  10  
+
+
+The number of page faults are 20
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:24:40 2016
+
+The number of page requested are:34
+
+The pages present in the requested string are
+7  2  5  2  1  3  9  8  9  3  6  10  9  7  2  9  10  8  1  5  6  4  1  8  9  3  10  7  3  10  6  3  9  5  
+
+
+The number of page faults are 25
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:24:40 2016
+
+The number of page request are:34
+The pages present in the requested string are
+7  2  5  2  1  3  9  8  9  3  6  10  9  7  2  9  10  8  1  5  6  4  1  8  9  3  10  7  3  10  6  3  9  5  
+
+
+The number of page faults are 21
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:24:40 2016
+
+The number of page request are:34
+The pages present in the requested string are
+7  2  5  2  1  3  9  8  9  3  6  10  9  7  2  9  10  8  1  5  6  4  1  8  9  3  10  7  3  10  6  3  9  5  
+
+
+The number of page faults are 26
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:24:40 2016
+
+The number of page request are:34
+The pages present in the requested string are
+7  2  5  2  1  3  9  8  9  3  6  10  9  7  2  9  10  8  1  5  6  4  1  8  9  3  10  7  3  10  6  3  9  5  
+
+
+The number of page faults are 23
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:24:40 2016
+
+The number of page request are:34
+The pages present in the frame are
+7  2  5  2  1  3  9  8  9  3  6  10  9  7  2  9  10  8  1  5  6  4  1  8  9  3  10  7  3  10  6  3  9  5  
+
+
+The number of page faults are 23
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:24:40 2016
+
+The number of page request are:34
+The pages present in the requested string are
+7  2  5  2  1  3  9  8  9  3  6  10  9  7  2  9  10  8  1  5  6  4  1  8  9  3  10  7  3  10  6  3  9  5  
+
+
+The number of page faults are 27
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:24:40 2016
+
+The number of page request are:34
+The pages present in the requested string are
+7  2  5  2  1  3  9  8  9  3  6  10  9  7  2  9  10  8  1  5  6  4  1  8  9  3  10  7  3  10  6  3  9  5  
+
+
+The number of page faults are 24
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:24:50 2016
+
+The number of page requested are:82
+
+The pages present in the requested string are
+4  4  7  10  6  7  2  7  3  3  5  2  6  3  8  9  2  3  8  3  3  3  7  1  6  8  3  1  8  5  3  9  3  10  5  7  5  5  2  5  1  1  2  8  5  3  8  2  5  4  4  7  7  4  2  3  7  4  3  1  6  4  5  7  6  9  9  10  10  4  4  1  7  4  7  8  2  1  4  2  8  6  
+
+
+The number of page faults are 50
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:24:51 2016
+
+The number of page request are:82
+The pages present in the requested string are
+4  4  7  10  6  7  2  7  3  3  5  2  6  3  8  9  2  3  8  3  3  3  7  1  6  8  3  1  8  5  3  9  3  10  5  7  5  5  2  5  1  1  2  8  5  3  8  2  5  4  4  7  7  4  2  3  7  4  3  1  6  4  5  7  6  9  9  10  10  4  4  1  7  4  7  8  2  1  4  2  8  6  
+
+
+The number of page faults are 36
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:24:50 2016
+
+The number of page request are:82
+The pages present in the requested string are
+4  4  7  10  6  7  2  7  3  3  5  2  6  3  8  9  2  3  8  3  3  3  7  1  6  8  3  1  8  5  3  9  3  10  5  7  5  5  2  5  1  1  2  8  5  3  8  2  5  4  4  7  7  4  2  3  7  4  3  1  6  4  5  7  6  9  9  10  10  4  4  1  7  4  7  8  2  1  4  2  8  6  
+
+
+The number of page faults are 57
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:24:50 2016
+
+The number of page request are:82
+The pages present in the requested string are
+4  4  7  10  6  7  2  7  3  3  5  2  6  3  8  9  2  3  8  3  3  3  7  1  6  8  3  1  8  5  3  9  3  10  5  7  5  5  2  5  1  1  2  8  5  3  8  2  5  4  4  7  7  4  2  3  7  4  3  1  6  4  5  7  6  9  9  10  10  4  4  1  7  4  7  8  2  1  4  2  8  6  
+
+
+The number of page faults are 53
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:24:50 2016
+
+The number of page request are:82
+The pages present in the frame are
+4  4  7  10  6  7  2  7  3  3  5  2  6  3  8  9  2  3  8  3  3  3  7  1  6  8  3  1  8  5  3  9  3  10  5  7  5  5  2  5  1  1  2  8  5  3  8  2  5  4  4  7  7  4  2  3  7  4  3  1  6  4  5  7  6  9  9  10  10  4  4  1  7  4  7  8  2  1  4  2  8  6  
+
+
+The number of page faults are 53
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:24:50 2016
+
+The number of page request are:82
+The pages present in the requested string are
+4  4  7  10  6  7  2  7  3  3  5  2  6  3  8  9  2  3  8  3  3  3  7  1  6  8  3  1  8  5  3  9  3  10  5  7  5  5  2  5  1  1  2  8  5  3  8  2  5  4  4  7  7  4  2  3  7  4  3  1  6  4  5  7  6  9  9  10  10  4  4  1  7  4  7  8  2  1  4  2  8  6  
+
+
+The number of page faults are 52
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:24:50 2016
+
+The number of page request are:82
+The pages present in the requested string are
+4  4  7  10  6  7  2  7  3  3  5  2  6  3  8  9  2  3  8  3  3  3  7  1  6  8  3  1  8  5  3  9  3  10  5  7  5  5  2  5  1  1  2  8  5  3  8  2  5  4  4  7  7  4  2  3  7  4  3  1  6  4  5  7  6  9  9  10  10  4  4  1  7  4  7  8  2  1  4  2  8  6  
+
+
+The number of page faults are 52
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:25:02 2016
+
+The number of page requested are:26
+
+The pages present in the requested string are
+9  1  4  7  10  3  3  1  5  10  7  8  8  6  5  7  4  2  6  1  1  8  4  5  1  7  
+
+
+The number of page faults are 19
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:25:03 2016
+
+The number of page request are:26
+The pages present in the requested string are
+9  1  4  7  10  3  3  1  5  10  7  8  8  6  5  7  4  2  6  1  1  8  4  5  1  7  
+
+
+The number of page faults are 14
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:25:02 2016
+
+The number of page request are:26
+The pages present in the requested string are
+9  1  4  7  10  3  3  1  5  10  7  8  8  6  5  7  4  2  6  1  1  8  4  5  1  7  
+
+
+The number of page faults are 18
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:25:02 2016
+
+The number of page request are:26
+The pages present in the requested string are
+9  1  4  7  10  3  3  1  5  10  7  8  8  6  5  7  4  2  6  1  1  8  4  5  1  7  
+
+
+The number of page faults are 19
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:25:02 2016
+
+The number of page request are:26
+The pages present in the frame are
+9  1  4  7  10  3  3  1  5  10  7  8  8  6  5  7  4  2  6  1  1  8  4  5  1  7  
+
+
+The number of page faults are 19
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:25:02 2016
+
+The number of page request are:26
+The pages present in the requested string are
+9  1  4  7  10  3  3  1  5  10  7  8  8  6  5  7  4  2  6  1  1  8  4  5  1  7  
+
+
+The number of page faults are 18
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:25:02 2016
+
+The number of page request are:26
+The pages present in the requested string are
+9  1  4  7  10  3  3  1  5  10  7  8  8  6  5  7  4  2  6  1  1  8  4  5  1  7  
+
+
+The number of page faults are 19
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:43:52 2016
+
+The number of page requested are:79
+
+The pages present in the requested string are
+7  3  4  10  3  5  5  3  3  10  6  8  5  10  5  5  2  2  10  3  4  2  10  6  1  6  10  7  4  9  5  8  9  10  4  9  5  10  2  2  2  9  10  5  4  4  9  6  3  2  1  8  9  7  6  4  4  3  9  9  9  2  8  1  10  2  3  9  7  2  5  4  6  9  1  8  1  10  8  
+
+
+The number of page faults are 57
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:43:53 2016
+
+The number of page request are:79
+The pages present in the requested string are
+7  3  4  10  3  5  5  3  3  10  6  8  5  10  5  5  2  2  10  3  4  2  10  6  1  6  10  7  4  9  5  8  9  10  4  9  5  10  2  2  2  9  10  5  4  4  9  6  3  2  1  8  9  7  6  4  4  3  9  9  9  2  8  1  10  2  3  9  7  2  5  4  6  9  1  8  1  10  8  
+
+
+The number of page faults are 41
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:43:52 2016
+
+The number of page request are:79
+The pages present in the requested string are
+7  3  4  10  3  5  5  3  3  10  6  8  5  10  5  5  2  2  10  3  4  2  10  6  1  6  10  7  4  9  5  8  9  10  4  9  5  10  2  2  2  9  10  5  4  4  9  6  3  2  1  8  9  7  6  4  4  3  9  9  9  2  8  1  10  2  3  9  7  2  5  4  6  9  1  8  1  10  8  
+
+
+The number of page faults are 53
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:43:52 2016
+
+The number of page request are:79
+The pages present in the requested string are
+7  3  4  10  3  5  5  3  3  10  6  8  5  10  5  5  2  2  10  3  4  2  10  6  1  6  10  7  4  9  5  8  9  10  4  9  5  10  2  2  2  9  10  5  4  4  9  6  3  2  1  8  9  7  6  4  4  3  9  9  9  2  8  1  10  2  3  9  7  2  5  4  6  9  1  8  1  10  8  
+
+
+The number of page faults are 56
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:43:52 2016
+
+The number of page request are:79
+The pages present in the frame are
+7  3  4  10  3  5  5  3  3  10  6  8  5  10  5  5  2  2  10  3  4  2  10  6  1  6  10  7  4  9  5  8  9  10  4  9  5  10  2  2  2  9  10  5  4  4  9  6  3  2  1  8  9  7  6  4  4  3  9  9  9  2  8  1  10  2  3  9  7  2  5  4  6  9  1  8  1  10  8  
+
+
+The number of page faults are 56
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:43:52 2016
+
+The number of page request are:79
+The pages present in the requested string are
+7  3  4  10  3  5  5  3  3  10  6  8  5  10  5  5  2  2  10  3  4  2  10  6  1  6  10  7  4  9  5  8  9  10  4  9  5  10  2  2  2  9  10  5  4  4  9  6  3  2  1  8  9  7  6  4  4  3  9  9  9  2  8  1  10  2  3  9  7  2  5  4  6  9  1  8  1  10  8  
+
+
+The number of page faults are 54
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:43:52 2016
+
+The number of page request are:79
+The pages present in the requested string are
+7  3  4  10  3  5  5  3  3  10  6  8  5  10  5  5  2  2  10  3  4  2  10  6  1  6  10  7  4  9  5  8  9  10  4  9  5  10  2  2  2  9  10  5  4  4  9  6  3  2  1  8  9  7  6  4  4  3  9  9  9  2  8  1  10  2  3  9  7  2  5  4  6  9  1  8  1  10  8  
+
+
+The number of page faults are 54
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:44:03 2016
+
+The number of page requested are:29
+
+The pages present in the requested string are
+6  4  8  4  10  2  7  10  7  10  4  10  8  8  2  1  8  4  2  8  2  7  2  5  9  2  3  8  10  
+
+
+The number of page faults are 18
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:44:04 2016
+
+The number of page request are:29
+The pages present in the requested string are
+6  4  8  4  10  2  7  10  7  10  4  10  8  8  2  1  8  4  2  8  2  7  2  5  9  2  3  8  10  
+
+
+The number of page faults are 12
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:44:04 2016
+
+The number of page request are:29
+The pages present in the requested string are
+6  4  8  4  10  2  7  10  7  10  4  10  8  8  2  1  8  4  2  8  2  7  2  5  9  2  3  8  10  
+
+
+The number of page faults are 16
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:44:04 2016
+
+The number of page request are:29
+The pages present in the requested string are
+6  4  8  4  10  2  7  10  7  10  4  10  8  8  2  1  8  4  2  8  2  7  2  5  9  2  3  8  10  
+
+
+The number of page faults are 16
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:44:04 2016
+
+The number of page request are:29
+The pages present in the frame are
+6  4  8  4  10  2  7  10  7  10  4  10  8  8  2  1  8  4  2  8  2  7  2  5  9  2  3  8  10  
+
+
+The number of page faults are 16
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:44:04 2016
+
+The number of page request are:29
+The pages present in the requested string are
+6  4  8  4  10  2  7  10  7  10  4  10  8  8  2  1  8  4  2  8  2  7  2  5  9  2  3  8  10  
+
+
+The number of page faults are 16
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:44:03 2016
+
+The number of page request are:29
+The pages present in the requested string are
+6  4  8  4  10  2  7  10  7  10  4  10  8  8  2  1  8  4  2  8  2  7  2  5  9  2  3  8  10  
+
+
+The number of page faults are 16
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:44:14 2016
+
+The number of page requested are:39
+
+The pages present in the requested string are
+4  2  10  4  1  7  7  4  3  6  2  4  1  6  5  2  6  7  9  5  5  2  2  2  3  2  8  1  10  4  10  5  5  1  9  6  3  8  2  
+
+
+The number of page faults are 30
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:44:14 2016
+
+The number of page request are:39
+The pages present in the requested string are
+4  2  10  4  1  7  7  4  3  6  2  4  1  6  5  2  6  7  9  5  5  2  2  2  3  2  8  1  10  4  10  5  5  1  9  6  3  8  2  
+
+
+The number of page faults are 21
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:44:14 2016
+
+The number of page request are:39
+The pages present in the requested string are
+4  2  10  4  1  7  7  4  3  6  2  4  1  6  5  2  6  7  9  5  5  2  2  2  3  2  8  1  10  4  10  5  5  1  9  6  3  8  2  
+
+
+The number of page faults are 29
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:44:14 2016
+
+The number of page request are:39
+The pages present in the requested string are
+4  2  10  4  1  7  7  4  3  6  2  4  1  6  5  2  6  7  9  5  5  2  2  2  3  2  8  1  10  4  10  5  5  1  9  6  3  8  2  
+
+
+The number of page faults are 29
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:44:14 2016
+
+The number of page request are:39
+The pages present in the frame are
+4  2  10  4  1  7  7  4  3  6  2  4  1  6  5  2  6  7  9  5  5  2  2  2  3  2  8  1  10  4  10  5  5  1  9  6  3  8  2  
+
+
+The number of page faults are 29
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:44:14 2016
+
+The number of page request are:39
+The pages present in the requested string are
+4  2  10  4  1  7  7  4  3  6  2  4  1  6  5  2  6  7  9  5  5  2  2  2  3  2  8  1  10  4  10  5  5  1  9  6  3  8  2  
+
+
+The number of page faults are 26
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:44:14 2016
+
+The number of page request are:39
+The pages present in the requested string are
+4  2  10  4  1  7  7  4  3  6  2  4  1  6  5  2  6  7  9  5  5  2  2  2  3  2  8  1  10  4  10  5  5  1  9  6  3  8  2  
+
+
+The number of page faults are 28
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:44:29 2016
+
+The number of page requested are:24
+
+The pages present in the requested string are
+10  9  10  6  4  1  6  7  1  8  9  5  6  9  4  10  3  3  7  2  8  6  4  2  
+
+
+The number of page faults are 16
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:44:29 2016
+
+The number of page request are:24
+The pages present in the requested string are
+10  9  10  6  4  1  6  7  1  8  9  5  6  9  4  10  3  3  7  2  8  6  4  2  
+
+
+The number of page faults are 18
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:44:29 2016
+
+The number of page request are:24
+The pages present in the requested string are
+10  9  10  6  4  1  6  7  1  8  9  5  6  9  4  10  3  3  7  2  8  6  4  2  
+
+
+The number of page faults are 15
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:44:29 2016
+
+The number of page request are:24
+The pages present in the requested string are
+10  9  10  6  4  1  6  7  1  8  9  5  6  9  4  10  3  3  7  2  8  6  4  2  
+
+
+The number of page faults are 15
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:44:29 2016
+
+The number of page request are:24
+The pages present in the requested string are
+10  9  10  6  4  1  6  7  1  8  9  5  6  9  4  10  3  3  7  2  8  6  4  2  
+
+
+The number of page faults are 17
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:44:29 2016
+
+The number of page request are:24
+The pages present in the frame are
+10  9  10  6  4  1  6  7  1  8  9  5  6  9  4  10  3  3  7  2  8  6  4  2  
+
+
+The number of page faults are 17
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:44:29 2016
+
+The number of page request are:24
+The pages present in the requested string are
+10  9  10  6  4  1  6  7  1  8  9  5  6  9  4  10  3  3  7  2  8  6  4  2  
+
+
+The number of page faults are 17
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:44:39 2016
+
+The number of page requested are:94
+
+The pages present in the requested string are
+6  4  2  2  7  6  7  9  1  7  2  9  10  1  5  4  7  4  1  4  10  6  9  9  3  1  10  8  9  10  1  10  9  6  8  10  2  5  8  6  10  6  3  3  6  4  1  3  9  9  2  4  7  2  3  5  3  3  7  6  4  5  2  4  5  9  9  2  6  10  10  5  10  5  8  3  1  8  7  10  1  1  7  3  10  10  1  5  3  8  8  7  10  6  
+
+
+The number of page faults are 59
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:44:39 2016
+
+The number of page request are:94
+The pages present in the requested string are
+6  4  2  2  7  6  7  9  1  7  2  9  10  1  5  4  7  4  1  4  10  6  9  9  3  1  10  8  9  10  1  10  9  6  8  10  2  5  8  6  10  6  3  3  6  4  1  3  9  9  2  4  7  2  3  5  3  3  7  6  4  5  2  4  5  9  9  2  6  10  10  5  10  5  8  3  1  8  7  10  1  1  7  3  10  10  1  5  3  8  8  7  10  6  
+
+
+The number of page faults are 42
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:44:39 2016
+
+The number of page request are:94
+The pages present in the requested string are
+6  4  2  2  7  6  7  9  1  7  2  9  10  1  5  4  7  4  1  4  10  6  9  9  3  1  10  8  9  10  1  10  9  6  8  10  2  5  8  6  10  6  3  3  6  4  1  3  9  9  2  4  7  2  3  5  3  3  7  6  4  5  2  4  5  9  9  2  6  10  10  5  10  5  8  3  1  8  7  10  1  1  7  3  10  10  1  5  3  8  8  7  10  6  
+
+
+The number of page faults are 58
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:44:39 2016
+
+The number of page request are:94
+The pages present in the requested string are
+6  4  2  2  7  6  7  9  1  7  2  9  10  1  5  4  7  4  1  4  10  6  9  9  3  1  10  8  9  10  1  10  9  6  8  10  2  5  8  6  10  6  3  3  6  4  1  3  9  9  2  4  7  2  3  5  3  3  7  6  4  5  2  4  5  9  9  2  6  10  10  5  10  5  8  3  1  8  7  10  1  1  7  3  10  10  1  5  3  8  8  7  10  6  
+
+
+The number of page faults are 64
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:44:39 2016
+
+The number of page request are:94
+The pages present in the frame are
+6  4  2  2  7  6  7  9  1  7  2  9  10  1  5  4  7  4  1  4  10  6  9  9  3  1  10  8  9  10  1  10  9  6  8  10  2  5  8  6  10  6  3  3  6  4  1  3  9  9  2  4  7  2  3  5  3  3  7  6  4  5  2  4  5  9  9  2  6  10  10  5  10  5  8  3  1  8  7  10  1  1  7  3  10  10  1  5  3  8  8  7  10  6  
+
+
+The number of page faults are 64
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:44:39 2016
+
+The number of page request are:94
+The pages present in the requested string are
+6  4  2  2  7  6  7  9  1  7  2  9  10  1  5  4  7  4  1  4  10  6  9  9  3  1  10  8  9  10  1  10  9  6  8  10  2  5  8  6  10  6  3  3  6  4  1  3  9  9  2  4  7  2  3  5  3  3  7  6  4  5  2  4  5  9  9  2  6  10  10  5  10  5  8  3  1  8  7  10  1  1  7  3  10  10  1  5  3  8  8  7  10  6  
+
+
+The number of page faults are 68
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:44:39 2016
+
+The number of page request are:94
+The pages present in the requested string are
+6  4  2  2  7  6  7  9  1  7  2  9  10  1  5  4  7  4  1  4  10  6  9  9  3  1  10  8  9  10  1  10  9  6  8  10  2  5  8  6  10  6  3  3  6  4  1  3  9  9  2  4  7  2  3  5  3  3  7  6  4  5  2  4  5  9  9  2  6  10  10  5  10  5  8  3  1  8  7  10  1  1  7  3  10  10  1  5  3  8  8  7  10  6  
+
+
+The number of page faults are 64
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:44:49 2016
+
+The number of page requested are:31
+
+The pages present in the requested string are
+3  8  3  8  1  2  3  9  8  3  9  5  10  5  2  5  7  8  3  4  2  5  5  7  2  8  10  8  2  1  1  
+
+
+The number of page faults are 18
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:44:49 2016
+
+The number of page request are:31
+The pages present in the requested string are
+3  8  3  8  1  2  3  9  8  3  9  5  10  5  2  5  7  8  3  4  2  5  5  7  2  8  10  8  2  1  1  
+
+
+The number of page faults are 13
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:44:49 2016
+
+The number of page request are:31
+The pages present in the requested string are
+3  8  3  8  1  2  3  9  8  3  9  5  10  5  2  5  7  8  3  4  2  5  5  7  2  8  10  8  2  1  1  
+
+
+The number of page faults are 22
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:44:49 2016
+
+The number of page request are:31
+The pages present in the frame are
+3  8  3  8  1  2  3  9  8  3  9  5  10  5  2  5  7  8  3  4  2  5  5  7  2  8  10  8  2  1  1  
+
+
+The number of page faults are 18
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:44:49 2016
+
+The number of page request are:31
+The pages present in the requested string are
+3  8  3  8  1  2  3  9  8  3  9  5  10  5  2  5  7  8  3  4  2  5  5  7  2  8  10  8  2  1  1  
+
+
+The number of page faults are 16
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:44:49 2016
+
+The number of page request are:31
+The pages present in the requested string are
+3  8  3  8  1  2  3  9  8  3  9  5  10  5  2  5  7  8  3  4  2  5  5  7  2  8  10  8  2  1  1  
+
+
+The number of page faults are 18
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:45:01 2016
+
+The number of page requested are:51
+
+The pages present in the requested string are
+5  1  2  4  4  8  5  1  7  8  1  9  2  2  10  4  8  8  3  4  6  2  8  10  7  2  10  6  1  10  1  3  3  5  7  5  3  10  9  5  4  10  2  9  10  1  9  7  9  6  10  
+
+
+The number of page faults are 35
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:45:01 2016
+
+The number of page request are:51
+The pages present in the requested string are
+5  1  2  4  4  8  5  1  7  8  1  9  2  2  10  4  8  8  3  4  6  2  8  10  7  2  10  6  1  10  1  3  3  5  7  5  3  10  9  5  4  10  2  9  10  1  9  7  9  6  10  
+
+
+The number of page faults are 25
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:45:01 2016
+
+The number of page request are:51
+The pages present in the requested string are
+5  1  2  4  4  8  5  1  7  8  1  9  2  2  10  4  8  8  3  4  6  2  8  10  7  2  10  6  1  10  1  3  3  5  7  5  3  10  9  5  4  10  2  9  10  1  9  7  9  6  10  
+
+
+The number of page faults are 38
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:45:01 2016
+
+The number of page request are:51
+The pages present in the requested string are
+5  1  2  4  4  8  5  1  7  8  1  9  2  2  10  4  8  8  3  4  6  2  8  10  7  2  10  6  1  10  1  3  3  5  7  5  3  10  9  5  4  10  2  9  10  1  9  7  9  6  10  
+
+
+The number of page faults are 33
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:45:01 2016
+
+The number of page request are:51
+The pages present in the frame are
+5  1  2  4  4  8  5  1  7  8  1  9  2  2  10  4  8  8  3  4  6  2  8  10  7  2  10  6  1  10  1  3  3  5  7  5  3  10  9  5  4  10  2  9  10  1  9  7  9  6  10  
+
+
+The number of page faults are 33
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:45:01 2016
+
+The number of page request are:51
+The pages present in the requested string are
+5  1  2  4  4  8  5  1  7  8  1  9  2  2  10  4  8  8  3  4  6  2  8  10  7  2  10  6  1  10  1  3  3  5  7  5  3  10  9  5  4  10  2  9  10  1  9  7  9  6  10  
+
+
+The number of page faults are 38
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:45:01 2016
+
+The number of page request are:51
+The pages present in the requested string are
+5  1  2  4  4  8  5  1  7  8  1  9  2  2  10  4  8  8  3  4  6  2  8  10  7  2  10  6  1  10  1  3  3  5  7  5  3  10  9  5  4  10  2  9  10  1  9  7  9  6  10  
+
+
+The number of page faults are 33
+
+Algorithm:FIFO Date and Time: Wed Dec 07 20:45:37 2016
+
+The number of page requested are:50
+
+The pages present in the requested string are
+6  2  9  7  1  1  7  9  8  7  4  5  5  10  8  8  9  8  2  7  3  5  5  1  7  4  3  8  3  2  6  2  5  4  2  8  6  9  8  10  1  7  5  2  6  4  10  6  4  2  
+
+
+The number of page faults are 33
+
+Algorithm:OPT Date and Time: Wed Dec 07 20:45:37 2016
+
+The number of page request are:50
+The pages present in the requested string are
+6  2  9  7  1  1  7  9  8  7  4  5  5  10  8  8  9  8  2  7  3  5  5  1  7  4  3  8  3  2  6  2  5  4  2  8  6  9  8  10  1  7  5  2  6  4  10  6  4  2  
+
+
+The number of page faults are 28
+
+Algorithm:MFU Date and Time: Wed Dec 07 20:45:37 2016
+
+The number of page request are:50
+The pages present in the requested string are
+6  2  9  7  1  1  7  9  8  7  4  5  5  10  8  8  9  8  2  7  3  5  5  1  7  4  3  8  3  2  6  2  5  4  2  8  6  9  8  10  1  7  5  2  6  4  10  6  4  2  
+
+
+The number of page faults are 33
+
+Algorithm:LFUSTACK Date and Time: Wed Dec 07 20:45:37 2016
+
+The number of page request are:50
+The pages present in the requested string are
+6  2  9  7  1  1  7  9  8  7  4  5  5  10  8  8  9  8  2  7  3  5  5  1  7  4  3  8  3  2  6  2  5  4  2  8  6  9  8  10  1  7  5  2  6  4  10  6  4  2  
+
+
+The number of page faults are 32
+
+Algorithm:LFUCTR Date and Time: Wed Dec 07 20:45:37 2016
+
+The number of page request are:50
+The pages present in the frame are
+6  2  9  7  1  1  7  9  8  7  4  5  5  10  8  8  9  8  2  7  3  5  5  1  7  4  3  8  3  2  6  2  5  4  2  8  6  9  8  10  1  7  5  2  6  4  10  6  4  2  
+
+
+The number of page faults are 32
+
+Algorithm:LFU Date and Time: Wed Dec 07 20:45:37 2016
+
+The number of page request are:50
+The pages present in the requested string are
+6  2  9  7  1  1  7  9  8  7  4  5  5  10  8  8  9  8  2  7  3  5  5  1  7  4  3  8  3  2  6  2  5  4  2  8  6  9  8  10  1  7  5  2  6  4  10  6  4  2  
+
+
+The number of page faults are 36
+
+Algorithm:SECONDCHANCE Date and Time: Wed Dec 07 20:45:37 2016
+
+The number of page request are:50
+The pages present in the requested string are
+6  2  9  7  1  1  7  9  8  7  4  5  5  10  8  8  9  8  2  7  3  5  5  1  7  4  3  8  3  2  6  2  5  4  2  8  6  9  8  10  1  7  5  2  6  4  10  6  4  2  
+
+
+The number of page faults are 32
